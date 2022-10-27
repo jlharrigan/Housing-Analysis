@@ -1,0 +1,128 @@
+﻿X,Y,OBJECTID,FEATURE_ID,ESITE,CODE,NAME,ABB_NAME,ADDRESS,ZIPCODE,WEBSITE,PIN,MAJOR,MINOR
+-122.321401479485,47.6124403988819,1,2655,442834,330,Polyclinic-Broadway,Polyclinic-Broadway,1001 Broadway Ave,98122,http://www.polyclinic.com/Locations/SiteInfo/LocationDetails/tabid/158/Default.aspx?CurrentClinicID=6,1978201270,197820,1270
+-122.229281776757,47.3668472183165,2,2309,675664,330,Alder Square Health Center,Alder Square Health Center,1404 Central Ave S,98032,,,,
+-122.311130689823,47.6074107518849,3,1076,435003,330,Providence Medical Center,Providence MC,500 17th Ave,98122,,,,
+-122.214881549444,47.4816021531894,4,2704,582936,330,HealthPoint Renton,HealthPoint Renton,200 S 2nd St,98057,,,,
+-122.212242452381,47.4443245050962,5,2680,608049,330,Valley Medical Clinic Family Medicine,Valley Medical Clinic Family Medicine,3915 Talbot Rd S,98055,,,,
+-122.350620303173,47.4943343891387,6,1815,571073,330,Schicks Shadel,Schick's Shadel,12101 Ambaum Blvd SW,98146,http://www.schickshadel.com/,3744600205,374460,0205
+-122.318255254606,47.6582515799073,7,2679,14062,330,UW Medical Center Roosevelt,UW Medical Center Roosevelt,4225 Roosevelt Way NE,98105,,,,
+-122.189988230489,47.6121346457881,8,2688,107001,330,Virginia Mason Clinic-Bellevue,Virginia Mason Clinic-Bellevue,222 112th Ave NE,98004,,,,
+-122.295900951317,47.4877643485797,9,1645,735824,330,Highline Medical Center Speciality Campus,Highline Medical Center Specialty Center,12844 Military Rd S,98168,http://www.highlinemedicalcenter.org/about/index.php,1623049001,162304,9001
+-122.342211488231,47.7048285769787,10,1505,260184,330,Blood Bank-Northend,Blood Bank - Northend,10357 Stone Ave N,98133,http://www.psbc.org/programs/cntr_seattle_north.htm,6300500180,630050,0180
+-122.160769925063,47.5790037224337,11,1617,101588,330,Kaiser Permanente - Factoria,Kaiser Permanente - Factoria,13451 SE 36th St,98006,https://member.ghc.org/public/locations/medcenters/64/index.jhtml,3927250010,392725,0010
+-122.214250986788,47.4427189613552,12,693,597748,330,UW Medicine Valley Medical Center,Valley Medical Center,400 SW 43rd St,98055,http://www.valleymed.org/,8857670010,885767,0010
+-122.20184918498,47.3685236548606,13,2648,669345,330,Kaiser Permanente - Kent,Kaiser Permanente - Kent,26004 104th Ave SE,98030,,2922059053,292205,9053
+-122.185024526862,47.6258025896725,14,2678,119204,330,UW Eastide Speciality,UW Eastide Speciality,1700 116th Ave NE,98004,,,,
+-122.282444350399,47.4346963502126,15,2705,1002788,330,HealthPoint SeaTac,HealthPoint SeaTac,4040 S 188th St,98188,,,,
+-122.380189137643,47.66817144808,16,2654,320400,330,Polyclinic-Ballard,Polyclinic-Ballard,1801 NW Market St,98107,,,,
+-122.385220788222,47.6688361233612,17,2661,772145,330,Swedish Clinic Ballard,Swedish Clinic Ballard,2208 NW Market St,98107,,,,
+-122.157092268229,47.489689152056,18,2684,898887,330,Valley Medical Highlands Primary Care,Valley Medical Highlands Primary Care,451 Duvall Ave NE,98059,,,,
+-122.201428785606,47.3786478342779,19,2685,659790,330,Valley Medical Kent Primary Care,Valley Medical Kent Primary Care,24920 104th Ave SE,98030,,,,
+-122.180058256109,47.7171460157574,20,2690,38444,330,Virginia Mason Clinic-Kirkland,Virginia Mason Clinic-Kirkland,13014 120th Ave NE,98034,,,,
+-122.22934806771,47.3819106219157,21,2703,616260,330,HealthPoint Kent,HealthPoint Kent,403 E Meeker St,98030,,,,
+-122.320313329813,47.6082490708997,22,1735,451165,330,Northwest Kidney Center,Northwest Kidney Center,700 Broadway,98122,http://www.nwkidney.org/index.html,1978201435,197820,1435
+-122.189988230489,47.6121346457881,23,2353,107001,330,Virginia Mason-Bellevue,Virginia Mason Bellevue,222 112th Ave NE,98004,,,,
+-122.15269716645,47.7554253981705,24,2677,83325,330,UW Clinic Woodinville,UW Clinic Woodinville,17638 140th Ave NE,98072,,,,
+-122.2493146013,47.4586819754242,25,1506,609352,330,Blood Bank-Tukwila,Blood Bank - Tukwila,130 Andover Park,98188,http://www.psbc.org/programs/cntr_tukwila.htm,0223100040,022310,0040
+-122.308035621681,47.5636272081923,26,923,766335,330,VA Puget Sound Health Care System - Seattle Division,VA PS Health Care - Seattle Division,1660 S Columbian Way,98108,http://www1.va.gov/directory/guide/facility.asp?ID=120&dnum=ALL&map=1,1624049193,162404,9193
+-122.319695329594,47.2911191822345,27,2380,707843,330,Federal Way CBOC (Valor Healthcare),Federal Way CBOC (Valor Healthcare),34617 11th Pl S,98003,,,,
+-122.129273555658,47.673322651412,28,1624,982335,330,Kaiser Permanente - Redmond at Riverpark,Kaiser Permanente - Redmond at Riverpark,15809 Bear Creek Pkwy,98052,http://www.ghc.org/locations/medcenters/9/index.jhtml,0673100050,067310,0050
+-122.325375129067,47.6085356549516,29,1520,444607,330,Cabrini Medical Tower,Cabrini Medical Tower,901 Boren Ave,98104,http://www.lostinseattle.com/LIS/building/cabrinimedicaltower.html,8590901010,859090,1010
+-122.327737836234,47.6098603213719,30,821,433317,330,Virginia Mason Seattle Main Clinic,Virginia Mason Med Ctr,925 Seneca St,98101,,,,
+-122.330842974372,47.3004553244476,31,2175,714727,330,Virginia Mason Clinic-Federal Way,Virginia Mason Clinic - Federal Way,33501 1st Way S,98003,,,,
+-122.021933656382,47.5361037501781,32,2330,991032,330,Swedish Medical Center Issaquah,Swedish Medical Center Issaquah,751 NE Blakely Dr,98029,http://www.swedish.org/locations/issaquah-campus,3205700000,320570,0000
+-122.167507944398,47.5757804093224,33,2664,96899,330,Swedish Clinic Factoria,Swedish Clinic Factoria,12917 SE 38th St,98006,,,,
+-122.299567716451,47.584092946921,34,2079,464705,330,Center Park Council,Center Park Council,2121 26th Ave S,98144,,,,
+-122.192627047911,47.4866298716834,35,1625,582523,330,Kaiser Permanente - Renton,Kaiser Permanente - Renton,275 Bronson Way NE,98056,http://www.ghc.org/locations/medcenters/7/index.jhtml,1723059102,172305,9102
+-122.32273892657,47.6097034871782,36,1489,762460,330,Arnold Medical Center,Arnold Medical Center,1221 Madison St,98104,none,8725990000,872599,0000
+-122.334664658975,47.6105449587924,37,1621,438355,330,Kaiser Permanente - Downtown Seattle,Kaiser Permanente - Downtown Seattle,1420 5th Ave,98101,,1975700080,197570,0080
+-122.312039982306,47.6199014057598,38,2647,453243,330,Kaiser Permanente - Capitol Hill Campus,Kaiser Permanente - Capitol Hill Campus,201 16th Ave E,98112,,3117000005,311700,0005
+-122.116574195353,47.3584699293001,39,2682,664049,330,Valley Medical Covington,Valley Medical Covington,16850 SE 272nd St,98042,,,,
+-122.034379507201,47.537170192949,40,2689,572713,330,Virginia Mason Clinic-Issaquah,Virginia Mason Clinic-Issaquah,100 NE Gilman Blvd,98027,,,,
+-122.327928299422,47.6095321090663,41,2692,446849,330,Virginia Mason Hospital and Seattle Medical Center,Virginia Mason Seattle Main Clinic,1100 9th Ave,98101,https://www.virginiamason.org/home/body.cfm?xyzpdqabc=0&id=342&action=detail&ref=28,1979200225,197920,0225
+-122.366235561429,47.5341947956475,42,1122,482452,330,Navos Mental Health Solutions,Navos Mental Health,2600 SW Holden St,98106,http://www.highlinementalhealth.org/index.php?option=com_akostaff&Itemid=72,7985400265,798540,0265
+-122.337087249217,47.7147701973673,43,1150,274969,330,Northwest Hospital and Medical Center,NW Hosp and Med Ctr,1550 N 115th St,98133,http://www.nwhospital.org/,3026049130,302604,9130
+-122.021933656382,47.5361037501781,44,3300065,991032,330,Swedish-Issaquah ER,Swedish-Issaquah ER,751 NE Blakely Dr,98029,http://www.swedish.org/locations/issaquah-emergency-room,3205700000,320570,0000
+-122.328950917373,47.6069971547717,45,2644,000000,330,Polyclinic-Madison,Polyclinic-Madison,904 7th Ave,98104,,,,
+-122.227479539553,47.3089212099038,46,2699,719555,330,HealthPoint Auburn,HealthPoint Auburn,126 Auburn Ave NE,98002,,1735800420,173580,0420
+-122.27965395102,47.5542290862413,47,1623,478724,330,Kaiser Permanente - Rainier,Kaiser Permanente - Rainier,5316 Rainier Ave S,98118,http://www.ghc.org/locations/medcenters/46/index.jhtml,1704900338,170490,0338
+-122.041099373407,47.5505588087654,48,2331,847103,330,Overlake Medical Center Issaquah,Overlake Medical Center Issaquah,5708 E Lake Sammamish Pkwy SE,98029,,,,
+-122.322178570626,47.5961283771679,49,1634,1013565,330,International District Medical and Dental Clinic,Int'l Dist Med and Dental Clinic,720 8th Ave S,98104,,8592900105,859290,0105
+-122.12339016631,47.6794099086431,50,2700,536743,330,HealthPoint Redmond,HealthPoint Redmond,16225 NE 87th St,98052,,0225059099,022505,9099
+-122.304653560149,47.6013293271768,51,1637,433895,330,Carolyn Downs Family Medical Center,Carolyn Downs Family Medical Center,2101 E Yesler Way,98122,http://www.desc.org/,1493600000,149360,0000
+-122.330081831953,47.6280301900441,52,2123,759903,330,Fred Hutchinson Cancer Research Center,Fred Hutchinson Center,1100 Fairview Av N,98109,,1984200455,198420,0455
+-122.331654248768,47.3141639633996,53,1618,712275,330,Kaiser Permanente - Federal Way,Kaiser Permanente - Federal Way,301 S. 320th St,98003,http://www.ghc.org/locations/medcenters/10/index.jhtml,1721049105,172104,9105
+-122.200586536979,47.7609413971231,54,2702,175585,330,HealthPoint Bothell,HealthPoint Bothell,10414 Beardslee Blvd,98011,,3906100105,390610,0105
+-122.18435776278,47.7160776443528,55,2652,44178,330,Pacific Medical Totem Lake,Pacific Medical Totem Lake,12910 Totem lake Blvd,98034,,,,
+-122.399413197492,47.6402469093606,56,2667,414443,330,Swedish Clinic Magnolia,Swedish Clinic Magnolia,2450 33rd Ave W,98199,,,,
+-122.323787581069,47.7008696663047,57,1622,834234,330,Kaiser Permanente - Northgate,Kaiser Permanente - Northgate,9800 4th Ave NE,98115,http://www.ghc.org/locations/medcenters/6/index.jhtml,2434900130,243490,0130
+-122.309552352198,47.6080173819368,58,2656,0000000,330,Polyclinic-Cardiology,Polyclinic-Cardiology,550 17th Ave,98122,,,,
+-122.311214222419,47.6064871519311,59,2662,448514,330,Swedish Clinic Central Seattle,Swedish Clinic Central Seattle,1600 E Jefferson St,98122,,,,
+-122.38642936767,47.572959425489,60,2670,470933,330,Swedish West Seattle Primary Care,Swedish West Seattle,3400 California Ave SW,98116,,,,
+-122.348444675501,47.6153352277815,61,2671,832972,330,UW Clinic Belltown,UW Clinic Belltown,2505 2nd Ave,98121,,,,
+-122.321927605368,47.6088420320288,62,819,836480,330,Swedish Medical Center First Hill Campus,Swedish Med Ctr First Hill,747 Broadway Ave,98104,http://www.swedish.org/body.cfm?id=2031,1978200665,197820,0665
+-121.987445577031,47.2093970068239,63,2698,394659,330,Enumclaw WIC Services,Enumclaw WIC,2254 Jensen St,98022,,,,
+-122.329670278758,47.6266721471153,64,2202,434812,330,Seattle Cancer Care Alliance,Seattle Cancer Care Alliance,825 Eastlake Ave E,98109,http://www.seattlecca.org/,1361300055,136130,0055
+-122.303049055525,47.3145015144024,65,2673,868245,330,UW Clinic Federal Way,UW Clinic Federal Way,32018 23rd Ave S,98003,,,,
+-122.180693021953,47.7685993514516,66,1615,177415,330,Kaiser Permanente - Northshore ,Kaiser Permanente - Northshore ,11913 NE 195th St,98011,http://www.ghc.org/,6979200210,697920,0210
+-122.311130688494,47.6074107519021,67,3300022,435003,330,Swedish Cherry Hill Campus,Swedish Cherry Hill Campus,500 17th Ave,98122,http://www.swedish.org/body.cfm?id=2030,7942600331,794260,0331
+-122.379611888326,47.6674266511813,68,3300043,328287,330,Swedish Medical Center Ballard Campus,Swedish Ballard Campus,5300 Tallman Ave NW,98107,http://www.swedish.org/body.cfm?id=2052,2767703875,276770,3875
+-122.321176699077,47.706560869045,69,3300047,773391,330,Kindred Hospital Seattle - Northgate,Kindred,10631 8th Ave NE,98125,http://www.kindredhospitalseattle.com/BuildPage.asp?Pageid=3,2926049409,292604,9409
+-122.336558797662,47.6127865910713,70,2657,839308,330,Polyclinic-Downtown,Polyclinic-Downtown,509 Olive Way,98101,,,,
+-122.322702386396,47.70441808621,71,1753,254493,330,Pacific Medical Center-North,Pacific MC- North,10416 5th Ave NE,98125,http://www.pacificmedicalcenters.org/,5101408393,510140,8393
+-122.209849483784,47.4415842246016,72,1754,592751,330,Pacific Medical Center Renton,Pacific Medical Center Renton,601 SE Carr Rd,98055,http://www.pacmed.org/locations.renton.html,3123059006,312305,9006
+-122.285420448004,47.6628173957502,73,2691,840083,330,Virginia Mason Clinic-Sand Point,Virginia Mason Clinic-Sand Point,4575 Sand Point Way NE,98105,,,,
+-122.281480766405,47.6623905780656,74,872,349884,330,Seattlle Childrens Hospital,Seattle Childrens Hospital,4800 Sand Point Way NE,98105,http://www.seattlechildrens.org/,2982800005,298280,0005
+-121.98775975836,47.2091800548939,75,3300044,983761,330,St. Elizabeth Hospital,St. Elizabeth Hospital,1455 Battersby Ave,98022,http://www.enumclawhospital.com/,2420069029,242006,9029
+-122.306980906393,47.6234240096202,76,1639,894962,330,Country Doctor Community Clinic,Country Doctor Community Clinic,500 19th Ave E,98112,none,4400200030,440020,0030
+-122.366235435531,47.5341951670883,77,3300063,482452,330,Highline West Seattle Mental Health Center,Highline West Seattle Mental Health,2600 SW Holden St,98126,http://www.highlinementalhealth.org/index.php,2023049006,202304,9006
+-122.186660218092,47.6187288179028,78,2646,881737,330,Kaiser Permanente - Bellevue,Kaiser Permanente - Bellevue,11511 NE 10th St,98004,http://www.ghc.org/locations/medcenters/31/index.jhtml,6448110150,644811,0150
+-122.335710160867,47.472960947308,79,1616,574256,330,Kaiser Permanente - Burien,Kaiser Permanente - Burien,140 SW 146th St,98166,http://www.ghc.org/locations/medcenters/2/index.jhtml,1923049302,192304,9302
+-122.036660407212,47.5832375917652,80,2666,532763,330,Swedish Pine Lake Primary Care,Swedish Pine Lake Primary Care,22707 SE 29th St,98075,,6791040000,679104,0000
+-122.30756724361,47.6160937611143,81,1626,455639,330,Hearing Speech and Deafness Center,Artz Communications Center,1625 19th Ave,98122,,,,
+-122.345428900505,47.5003572869618,82,10000040,12265,330,HealthPoint Evergreen Campus,HealthPoint Evergreen Campus,830 SW 116th St,98146,,0723049367,072304,9367
+-122.218770737536,47.3309934058781,83,10000041,687011,330,HealthPoint at Valley Cities Auburn,HealthPoint at Valley Cities Auburn,2704 I St NE,98002,,0001000085,000100,0085
+-122.222376155558,47.3170920290028,84,10000042,707622,330,HealthPoint Auburn North,HealthPoint Auburn North,923 Auburn Way N,98002,,0721059052,072105,9052
+-122.306243082672,47.3651280320133,85,10000043,381228,330,HealthPoint Midway,HealthPoint Midway,26401 Pacific Hwy S,98198,,2822049191,282204,9191
+-122.295108673947,47.485961305723,86,10000044,735784,330,HealthPoint Tukwila,HealthPoint Tukwila,13030 Military Rd S,98168,,1623049171,162304,9171
+-122.27739357071,47.4355386890975,87,10000045,397165,330,HealthPoint Tyee Campus,HealthPoint Tyee Campus,4424 S 188th St,98188,,3423049044,342304,9044
+-122.235758780932,47.3810526736639,88,10000046,1001073,330,HealthPoint at Valley Cities Kent,HealthPoint at Valley Cities Kent,325 W Gowe St,98032,,9825700370,982570,0370
+-122.166604855527,47.6212160646494,89,10000047,112362,330,Bellevue CBOC (Valor Healthcare),Bellevue CBOC (Valor Healthcare),13033 Bel-Red Rd,98005,,2825059121,282505,9121
+-122.178708114244,47.7158089328088,90,502,39289,330,EvergreenHealth Medical Center,EvergreenHealth Medical Center,12040 NE 128th St,98034,http://www.evergreenhealthcare.org/default.htm,2826059144,282605,9144
+-121.885359770771,47.5123865738466,91,2181,194368,330,Snoqualmie Valley Hospital,Snoqualmie Valley Hospital,9801 Frontier Ave SE,98065,http://www.snoqualmiehospital.org/,0623089021,062308,9021
+-122.343114000088,47.4574739007315,92,1248,611050,330,Highline Medical Center - Main Campus,Highline Medical Center Main Campus,16251 Sylvester Rd  SW,98166,http://www.highlinemedicalcenter.org/welcome/index.php,3023049027,302304,9027
+-122.379611888326,47.6674266511813,93,896,328287,330,Ballard Community Hospital,Ballard Community H,NW Market St & Barnes Ave NW,98107,http://www.swedish.org/body.cfm?id=2052,2767703875,276770,3875
+-122.186854962865,47.6203734268342,94,147,101690,330,Overlake Hospital Medical Center,Overlake Medical Center,1035 116th Ave NE,98104,http://www.overlakehospital.org/,6448110060,644811,0060
+-122.317859315887,47.3019548279054,95,2701,705937,330,HealthPoint Federal Way,HealthPoint Federal Way,33431 13th Pl S,98003,,,,
+-122.324323125957,47.6092270650542,96,2650,437413,330,Pacific Medical First Hill,Pacific Medical First Hill,1101 Madison St,98104,,,,
+-122.32965709458,47.6178403221631,97,2651,440498,330,Pacific Medical Sleep Center,Pacific Medical Sleep Center,1800 Yale Ave,98101,,,,
+-122.334124267287,47.7086840553047,98,2659,0000000,330,Polyclinic-Northgate,Polyclinic-Northgate,10111 Meridian Ave N,98133,,,,
+-122.317527378122,47.6811283461817,99,2665,0000000,330,Swedish Clinic Green Lake,Swedish Clinic Green Lake,7210 Roosevelt Ave NE,98115,,,,
+-122.053749492994,47.5466319573061,100,2674,571237,330,UW Clinic Issaquah,UW Clinic Issaquah,1455 11th Ave NW,98027,,,,
+-122.296370251088,47.3936566406864,101,2675,389617,330,UW Clinic Kent,UW Clinic Kent,23213 Pacific Hwy S,98032,,,,
+-122.214529007684,47.4442297957586,102,2681,600033,330,Valley Medical Cascade Primary Care,Valley Medical Cascade Primary Care,4033 Talbot Rd S,98055,,,,
+-122.168096659135,47.5380656362293,103,2687,11216,330,Valley Medical Newcastle Primary Care,Valley Medical Newcastle Primary Care,7203 129th Ave SE,98056,,,,
+-122.330842974372,47.3004553244476,104,2649,714727,330,Pacific Medical Federal Way,Pacific Medical Federal Way,33501 1st Way S,98003,,,,
+-122.315987038093,47.5928011177059,105,1752,440009,330,Pacific Medical Center-Central,Pacific MC- Central,1200 12th Ave S,98144,http://www.pacmed.org/locations.beaconhill.html,2829600110,282960,0110
+-122.292577602629,47.6617321646647,106,2660,348484,330,Polyclinic-Sand Point,Polyclinic-Sand Point,3216 NE 45th Pl,98105,,,,
+-122.311946509741,47.6154574202067,107,1826,440616,330,Seattle Eye Clinic,Seattle Eye Clinic,1601 16th Ave,98122,none,7234600310,723460,0310
+-122.323661241554,47.6039206490702,108,860,438405,330,Harborview Medical Center,Harborview Med Ctr,325 9th Ave,98104,http://www.uwmedicine.org/Facilities/Harborview/,8590400545,859040,0545
+-122.036662137449,47.5832351977539,109,2668,532763,330,Swedish Clinic Pine Lake,Swedish Clinic Pine Lake,22707 SE 29th St,98075,,,,
+-122.149231395202,47.444399210767,110,2683,606570,330,Valley Medical Fairwood Primary Care,Valley Medical Fairwood Primary Care,14410 SE Petrovisky Rd,98058,,,,
+-122.292577602603,47.6617321637655,111,1684,348484,330,Lakeview Medical Dental Center,Lakeview Medical Dental Center,3216 NE 45th Pl,98105,http://www.wcrcseattle.com/,2436201055,243620,1055
+-122.321857642429,47.6101218748614,112,1731,437345,330,Nordstrom Medical Tower,Nordstrom Medical Tower,1229 Madison St,98104,http://www.emporis.com/en/wm/bu/?id=nordstrommedicaltower-seattle-wa-usa,1978201015,197820,1015
+-122.310190221705,47.577703020195,113,2658,456953,330,Polyclinic-Jefferson park,Polyclinic-Jefferson park,2902 Beacon Ave S,98144,,,,
+-122.326249800211,47.6088734038337,114,1504,0000000,330,Blood Bank-First Hill,Blood Bank - First Hill,Terry Ave & Madison St,98104,,,,
+-122.326366139855,47.6084514039991,115,3300016,446015,330,Puget Sound Blood Center,Blood Bank - First Hill,921 Terry Ave,98104,http://www.psbc.org/home/index.htm,1979200290,197920,0290
+-122.34252697846,47.7777161710404,116,2676,135646,330,UW Clinic Shoreline,UW Clinic Shoreline,1355 N 205th St,98133,,,,
+-122.328069839563,47.6079578919028,117,2653,925162,330,Pacific Medical Womens Clinic,Pacific Medical Womens Clinic,805 Madison St,98104,,,,
+-122.164034471119,47.5788800806127,118,2672,113634,330,UW Clinic Factoria,UW Clinic Factoria,13231 SE 36th St,98006,,,,
+-122.191378853452,47.6197451318535,119,1503,106214,330,Blood Bank-Bellevue,Blood Bank - Bellevue,1021 112th Ave NE,98004,http://www.psbc.org/programs/cntr_bellevue.htm,5291200005,529120,0005
+-122.357335825321,47.638799608339,120,2669,416529,330,Swedish Clinic Queen Anne,Swedish Clinic Queen Anne,2211 Queen Anne Ave N,98109,,,,
+-122.327282139924,47.2926102615791,121,103,711911,330,St Francis Hospital,St. Francis  Hospital,34515 9th Ave S,98003,https://www.fhshealth.org/location/sfh.asp,7504510020,750451,0020
+-122.229269102499,47.3085287452519,122,22,717584,330,MultiCare Auburn Medical Center,MultiCare Auburn Medical Center,202 N Division St,98002,https://www.armcuhs.com/p1.html,0492500240,049250,0240
+-122.204415457201,47.7194540960599,123,1585,168945,330,Fairfax Hospital,Fairfax Hospital,10200 NE 132nd St,98034,http://www.athealth.com/Consumer/tcenter/fairfax_hospital.html,2026059018,202605,9018
+-122.055442533275,47.357436242175,124,2686,975421,330,Valley Medical Lake Sawyer Primary Care,Valley Medical Lake Sawyer Primary Care,27203 216th Ave SE,98038,,,,
+-122.32081510475,47.6122110338921,125,1795,0000000,330,Polyclinic-First Hill,Polyclinic - First Hill,1145 Broadway Ave,98122,,,,
+-122.30710463539,47.6496813876489,126,1345,14020,330,UW Medical Center,UW Medical Center,1959 NE Pacific St,98195,http://www.uwmedicine.org/Facilities/UWMedicalCenter/,1625049001,162504,9001
+-122.333879339145,47.6061472001753,127,2663,443955,330,Swedish Clinic Downtown Seattle,Swedish Downtown,1001 4th Ave,98154,,,,
